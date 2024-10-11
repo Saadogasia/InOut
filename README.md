@@ -35,7 +35,7 @@ const firebaseConfig = {
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/inout-expense-tracker.git
+   git clone https://github.com/Saadogasia/InOut.git
 2. Navigate to the project directory:
 
    cd inout-expense-tracker
