@@ -14,13 +14,14 @@ import {
   sendPasswordResetEmail,
 } from "firebase/auth";
 
+// Replace with your own Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAD2tCrZwxVQ8TeyZ06RJSdWDN4aYie1_o",
-  authDomain: "alfallah-93c82.firebaseapp.com",
-  projectId: "alfallah-93c82",
-  storageBucket: "alfallah-93c82.appspot.com",
-  messagingSenderId: "387253770174",
-  appId: "1:387253770174:web:dcc5e807694c26db3d4bef",
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
 };
 
 const app = initializeApp(firebaseConfig);
