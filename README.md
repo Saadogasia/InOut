@@ -1,6 +1,6 @@
 # InOUt - Expense & Wallet Tracker 💼
 
-**InOUt** is a simple and effective expense tracking app designed to help you manage your personal wallet. Track your income and expenses, categorize your transactions, and stay on top of your spending with ease. Built using **React Native** and powered by **Firebase**, InOUt provides secure and seamless financial tracking for users on the go.
+**InOUt** is a simple and effective expense tracking app designed to help you manage your personal wallet. Track your income and expenses, and stay on top of your spending with ease. Built using **React Native** and powered by **Firebase**, InOUt provides secure and seamless financial tracking for users on the go.
 
 ## Features 🚀
 - **Track Income & Expenses**: Log your daily transactions and manage your wallet efficiently.
