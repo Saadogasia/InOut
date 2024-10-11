@@ -9,6 +9,7 @@
 
 ## Technologies Used 🛠️
 - **React Native**: For building a cross-platform mobile application.
+- **Expo**: For building and deploying the application easily.
 - **Firebase**: Backend as a service for authentication and database storage.
   - **Firestore**: For storing and retrieving user data.
   - **Firebase Auth**: For handling user sign-up and login securely.
