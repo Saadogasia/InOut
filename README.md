@@ -35,10 +35,10 @@ const firebaseConfig = {
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Saadogasia/OgasiaStore.git
+   git clone https://github.com/your-username/inout-expense-tracker.git
 2. Navigate to the project directory:
 
-   cd ogasia-store
+   cd inout-expense-tracker
 
 3. Install the dependencies:
 
