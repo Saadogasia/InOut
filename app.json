@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "ExpTracker",
-    "slug": "ExpTracker",
+    "name": "InOut",
+    "slug": "InOut",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/appicon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -16,12 +16,28 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/appicon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.saadogasia.InOut"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/poppinsbold.ttf"
+          ]
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fb8b8f56-5347-4704-9028-c70ed1087562"
+      }
     }
   }
 }
